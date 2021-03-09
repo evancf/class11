@@ -1,5 +1,5 @@
 # EBIO 338/538 Analysis and Visualization of Biological Data
-# Class 13 Linear modeling continued - plotting multivariate results with confidence intervalss
+# Class 11 Linear modeling continued - plotting multivariate results with confidence intervals
 
 m1 <- lm(milk$kcal.per.g ~ milk$neocortex.perc)
 summary(m1)

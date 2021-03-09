@@ -1,5 +1,7 @@
 # EBIO 338/538 Analysis and Visualization of Biological Data
-# Class 13 Linear modeling continued
+# Class 11 Linear modeling continued
+
+# Start of part 1
 
 # Load data for clown fish body mass and sex. Examine the data.
 
@@ -27,6 +29,11 @@
 
 # TRUE OR FALSE? Body mass varies significantly based on sex 
 
+# End of part 1
+
+
+
+# Start of part 2
 
 # Load the data on milk quality and brain development. Examine the data
 

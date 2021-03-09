@@ -1,5 +1,5 @@
 # EBIO 338/538 Analysis and Visualization of Biological Data
-# Class 13 Linear modeling continued
+# Class 11 Linear modeling continued
 
 # Load data for clown fish body mass and Sex. Examine the data.
 fish <- read.csv(file="fish_data.csv")
